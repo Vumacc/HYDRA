@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYDRA V3", "HYDRA V3\HYDRA V3.csproj", "{057719CE-106E-4410-84B9-D6A1028649AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release (more evil)|Any CPU = Release (more evil)|Any CPU
+		Release (more evil)|x64 = Release (more evil)|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Debug|x64.ActiveCfg = Release|x64
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Debug|x64.Build.0 = Release|x64
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release (more evil)|Any CPU.ActiveCfg = Release (more evil)|Any CPU
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release (more evil)|Any CPU.Build.0 = Release (more evil)|Any CPU
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release (more evil)|x64.ActiveCfg = Release (more evil)|x64
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release (more evil)|x64.Build.0 = Release (more evil)|x64
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release|x64.ActiveCfg = Release|x64
+		{057719CE-106E-4410-84B9-D6A1028649AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
