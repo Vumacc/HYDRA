@@ -100,6 +100,7 @@ namespace HYDRA_V3
 			this.TopMost = true;
 			this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.hydra_FormClosing);
 			this.Load += new System.EventHandler(this.hydra_Load);
+			this.MouseHover += new System.EventHandler(this.hydra_MouseHover);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
@@ -114,6 +115,8 @@ namespace HYDRA_V3
 			int screenWidth = screen.WorkingArea.Width;
 			int screenHeight = screen.WorkingArea.Height;
 
+			// Making 2 new heads
+			// Add more if you wish
 			hydra newHead1 = new hydra();
 			hydra newHead2 = new hydra();
 
@@ -129,6 +132,7 @@ namespace HYDRA_V3
 			newHead1.Show();
 			newHead2.Show();
 
+			// Increase or decrease to adjust where the new heads are placed
 			int margin = 50;
 
 			int newHead1X = random.Next(margin, screenWidth - newHead1.Width - margin);
