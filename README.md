@@ -9,10 +9,8 @@ HYDRA is a Windows virus that displays a small Winform. Once a window is closed,
 The virus is made using ***C#***, and ***.NET 4.7.2*** with ***Visual Studio 2022***
 
 > [!WARNING]
-> If you are epileptic or photosensitive, be advised that HYDRA containins element that flash black and white.
-> \
-> \
-> Please proceed with caution.
+> HYDRA **contains rapidly flashing colours**.
+> If you have photosensitve epilepsy, do ***NOT*** run this program.
 
 ## Installation
 1. Go to the [releases](https://github.com/Vumacc/HYDRA/releases) page and find the latest release of HYDRA.
